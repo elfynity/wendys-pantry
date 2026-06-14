@@ -49,7 +49,7 @@ export const Header = () => {
       
         <Link id="logo" href="/">
           <Image
-            src="/wendys-pantry-logo.svg"
+            src="/wendys-pantry-logo.png"
             alt="Wendys Pantry Logo"
             width={688}
             height={391}
