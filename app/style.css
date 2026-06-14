@@ -2,7 +2,7 @@
 
     
   :root {
-    --tan: #765535;
+    --tan: #9c7046;
     --dark: #28190c;
     --gold:#ef8813;
     --red:#dc0000;
@@ -242,7 +242,6 @@
     background-color:var(--tan);
     color:white;
     font-size:var(--ml);
-    transition-duration:300ms;
   }
 
   #menu a:hover{

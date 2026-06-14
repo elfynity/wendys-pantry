@@ -58,9 +58,9 @@ export default function Home() {
       
     </Container>
 
-    <Container id="terms" customClass="tanBG">
+    <Container id="terms" customClass="tanBG center">
       <h2>Terms & Disclaimer</h2>
-      <p>All kinds of food is prepared in the kitchen and we cannot take responsibility if you are allergic to something.</p>
+      <p>Our kitchen handles all types of ingredients, so please take precaution if you hve allergies.</p>
     </Container>
 
     <Container id="order">
