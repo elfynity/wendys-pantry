@@ -26,7 +26,7 @@ export const Footer = () => {
 
     <Container customClass="footerContainer">
       <footer>
-          <p>&copy; Copyright Wendys Kitchen {currentYear} | Attribution to Freepik & Clipart Library </p>
+          <p>&copy; Copyright Wendys Pantry {currentYear} | Attribution to Freepik & Clipart Library </p>
       </footer>
     </Container>
 
