@@ -1,14 +1,26 @@
 export const priceData = [
   {
-    title:"Single Meal", 
-    price:"R80", 
-    description:"Any single meal is a standard price."
+    title:"Monday", 
+    price:"R90", 
+    description:"Chicken a la King"
   }, 
   {
-    title:"5 Single Meals or more", 
-    price:"R80", 
-    description:"Get a discounted rate if you buy 5 meals or more."
-  }, 
+    title:"Thursday", 
+    price:"R90", 
+    description:"Spaghetti Bolognaise"
+  }
+
+
+
+]
+
+/*
+{
+  title:"", 
+  price:"", 
+  description:""
+}, 
+
   {
     title:"Single Dessert", 
     price:"R30", 
@@ -29,14 +41,4 @@ export const priceData = [
     price:"R150", 
     description:"Please allow for a few working days to get this to you"
   }, 
-
-
-]
-
-/*
-{
-  title:"", 
-  price:"", 
-  description:""
-}, 
   */

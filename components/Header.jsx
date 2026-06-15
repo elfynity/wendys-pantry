@@ -86,7 +86,6 @@ export const Header = () => {
         <a href="#how">How it works</a>
         <a href="#meals">Meals</a>
         <a href="#timetable">Timetable</a>
-        <a href="#pricing">Pricing</a>
         <a href="#terms">Terms</a>
         <a href="#order">Order Now</a>
       </div>

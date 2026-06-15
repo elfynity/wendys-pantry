@@ -36,27 +36,26 @@ export default function Home() {
     </Container>
 
     <Container id="timetable" customClass="tanBG">
+
       <h2>Delivery Timetable for Fresh Meals</h2>
+
+       <Prices />
+
       <ul>
-        <li>Mon & Thurs</li>
         <li>Limited to Westville, subject to change</li>
         <li>Deliveries between 5.30pm to 7.30pm</li>
         <li>Any of the meals can also be ordered frozen on any day if in stock.</li>
         
       </ul>
 
-      <hr />
-      
-      <p>Current meals for this week: </p>
-      <Timetable />
+
+
+
+
+
     </Container>
 
-    <Container id="pricing">
-      <h2>Prices</h2>
 
-      <Prices />
-      
-    </Container>
 
     <Container id="terms" customClass="tanBG center">
       <h2>Terms & Disclaimer</h2>

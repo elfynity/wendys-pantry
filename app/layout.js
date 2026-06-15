@@ -8,7 +8,7 @@ import { Footer } from "@/components/Footer";
 const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
-  weight:["400", "600"],
+  weight:["300", "600"],
   preload: false 
 });
 
