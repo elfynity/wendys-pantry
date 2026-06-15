@@ -22,8 +22,8 @@ return(
             unoptimized
             sizes="100vw"
             style={{
-              width:'auto', 
-              height:'80px'
+              width:'80px', 
+              height:'auto'
             }}
           />
           <h3>{meal.title}</h3>

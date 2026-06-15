@@ -312,6 +312,7 @@
 
   .tableRows .tableRow span.title{
     flex:1;
+    font-weight:600;
   }
 
   .tableRows .tableRow span.description{

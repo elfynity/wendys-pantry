@@ -83,11 +83,11 @@ export const Header = () => {
 
     <Container pad="smlPad">
       <div id="menu" className="buttonLink">
-        <a href="#how">How it works</a>
-        <a href="#meals">Meals</a>
-        <a href="#timetable">Timetable</a>
-        <a href="#terms">Terms</a>
-        <a href="#order">Order Now</a>
+        <a href="#how">How it works &raquo; </a>
+        <a href="#meals">Meals &raquo; </a>
+        <a href="#timetable">Timetable &raquo; </a>
+        <a href="#terms">Terms &raquo; </a>
+        <a href="#order">Order Now &raquo; </a>
       </div>
     </Container>
 
