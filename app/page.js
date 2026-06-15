@@ -2,7 +2,7 @@ import Image from "next/image";
 import { Container } from "@/components/Container";
 import { NoShow } from "@/components/NoShow";
 import { MealOptions } from "@/components/MealOptions";
-import { Timetable, Order } from "@/components/Boxes";
+import { Order } from "@/components/Boxes";
 import { Prices } from "@/components/Prices";
 
 
@@ -59,7 +59,7 @@ export default function Home() {
 
     <Container id="terms" customClass="tanBG center">
       <h2>Terms & Disclaimer</h2>
-      <p>Our kitchen handles all types of ingredients, so please take precaution if you hve allergies.</p>
+      <p>Our kitchen handles all types of ingredients, so please take precaution if you have allergies.</p>
     </Container>
 
     <Container id="order">

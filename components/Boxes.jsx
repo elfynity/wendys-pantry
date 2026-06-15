@@ -6,7 +6,7 @@ const Box = ({children, title, price=""}) => {
 return(
   <>
   <div className="box">
-    <h3>{title}</h3>
+    <h5>{title}</h5>
     {children}
     {price && <p className="headingP" >{price}</p>}
   </div>  
@@ -20,8 +20,7 @@ return(
   <>
   <div id="orders">
 
-    <Box title="1">
-      <h3>Send Your Details</h3>
+    <Box title="1. Send Your Details">
       <ul>
         <li>Your name</li>
         <li>Your address</li>
@@ -29,16 +28,14 @@ return(
 
     </Box>
 
-    <Box title="2">
-      <h3>Order Your Food</h3>
+    <Box title="2. Order Your Food">
       <ul>
         <li>Which days do you want delivery?</li>
         <li>What meals do you want?</li>
       </ul>
     </Box>
 
-    <Box title="3">
-      <h3>Confirm Order</h3>
+    <Box title="3. Confirm Order">
       <ul>
         <li>I will let you know the cost and send bank details</li>
         <li>Do the direct EFT</li>
