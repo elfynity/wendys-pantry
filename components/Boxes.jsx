@@ -6,7 +6,7 @@ const Box = ({children, title, price=""}) => {
 return(
   <>
   <div className="box">
-    <h5>{title}</h5>
+    <h4>{title}</h4>
     {children}
     {price && <p className="headingP" >{price}</p>}
   </div>  
